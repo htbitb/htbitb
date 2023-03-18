@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm htb</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">Developer from VietNam</h3>
 
 - 🔭 I’m currently working on [Embedded software](https://www.linkedin.com/company/samsung-electronics-hcmc-ce-complex/mycompany/)
 
